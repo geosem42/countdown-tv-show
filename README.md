@@ -5,6 +5,9 @@
 The contestants are given 9 letters in no particular order and they're tasked with constructing the longest word they can out of the given letters.
 
 Note: you must download a word list and place it in the same directory as the javascript file. I recommend using [dwyl/english-words](https://github.com/dwyl/english-words).
+```
+node letters.js
+```
 
 # Numbers
 The contestants are given 6 numbers and a target and they have to add/subtract/divide/multiply the numbers together without using the same number twice, to reach their target goal or as close as possible.
