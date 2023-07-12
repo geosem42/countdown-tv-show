@@ -11,7 +11,9 @@ node numbers.js
 ```
 
 # Conundrum
-The contestants are presented with an anagrams of 9 letters and they have to figure out what the actual word for the given anagram.
+The contestants are presented with an anagrams of 9 letters and they have to figure out what the actual word for the given anagram. 
+
+Note: you must download a word list and place it in the same directory as the javascript file. I recommend using [dwyl/english-words](https://github.com/dwyl/english-words).
 ```
 node anagram.js
 ```
