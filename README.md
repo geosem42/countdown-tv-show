@@ -1,5 +1,5 @@
 # What is it?
-`8 Out Of 10 Cats Does Countdown` is a famous British TV shows that presents contestants with 3 different problems to solve: letters, numbers and conundrum.
+`8 Out Of 10 Cats Does Countdown` is a famous British TV shows that presents contestants with 3 different problems to solve: letters, numbers and conundrums.
 
 # Letters
 The contestants are given 9 letters in no particular order and they're tasked with constructing the longest word they can out of the given letters.
@@ -15,7 +15,7 @@ The contestants are given 6 numbers and a target and they have to add/subtract/d
 node numbers.js
 ```
 
-# Conundrum
+# Conundrums
 The contestants are presented with an anagrams of 9 letters and they have to figure out what the actual word for the given anagram. 
 
 Note: you must download a word list and place it in the same directory as the javascript file. I recommend using [dwyl/english-words](https://github.com/dwyl/english-words).
